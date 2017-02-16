@@ -1,3 +1,7 @@
 #simple, #medium, #crazy {
   display: none;
 }
+
+.highlighted {
+  color: red;
+}
